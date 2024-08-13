@@ -1,0 +1,6 @@
+{
+    "0": "American Shorthair Cat",
+    "1": "German Shepherd",
+    "2": "Ragdoll Cat",
+    "3": "Golden Retriever"
+}
